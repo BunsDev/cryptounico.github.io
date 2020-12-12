@@ -11,6 +11,11 @@
 
 
 # Resources
+## Coding Docs
+* [Solidity 0.7.5](https://docs.soliditylang.org/en/v0.7.5/index.html)
+* [Yarn](https://tutorial.math.lamar.edu/pdf/Algebra_Cheat_Sheet.pdf)
+* [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/getting-started.html)
+
 ## Cheat Sheets
 ### Math-Related
 * [Algebra](https://tutorial.math.lamar.edu/pdf/Algebra_Cheat_Sheet.pdf)
@@ -20,7 +25,3 @@
 * [Abstract Algebra](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
 * [LaTex](https://wch.github.io/latexsheet/latexsheet.pdf)
 
-### Coding Docs
-* [Solidity 0.7.5](https://docs.soliditylang.org/en/v0.7.5/index.html)
-* [Yarn](https://tutorial.math.lamar.edu/pdf/Algebra_Cheat_Sheet.pdf)
-* [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/getting-started.html)
