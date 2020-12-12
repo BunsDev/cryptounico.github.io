@@ -1,5 +1,5 @@
 # Articles of Interest
-## Authored by Uni
+## Uni Medium Posts
 
 * [On the GovernorDAO Treasury](https://soliditywiz.medium.com/on-the-governor-dao-treasury-fund-13d3525d5682) 
 * [How to: Develop Your Liquidity Mine](https://soliditywiz.medium.com/how-to-develop-your-liquidity-mine-9d47656fe678)
