@@ -7,9 +7,6 @@
 * [Cryptographic Hash Function](https://soliditywiz.medium.com/cryptographic-hash-function-beaa2408260)
 * [Merkle (Hash) Trees: Explained](https://soliditywiz.medium.com/merkle-hash-trees-explained-ea384f2af7e8)
 
-
-
-
 # Resources
 ## Coding Docs
 * [Solidity 0.7.5](https://docs.soliditylang.org/en/v0.7.5/index.html)
@@ -25,3 +22,4 @@
 * [Abstract Algebra](https://www.glump.net/content/abstract_algebra_cheat/index.pdf)
 * [LaTex](https://wch.github.io/latexsheet/latexsheet.pdf)
 
+![uni github stats](https://github-readme-stats.vercel.app/api?username=cryptounico&hide=["issues"]&show_icons=true)
