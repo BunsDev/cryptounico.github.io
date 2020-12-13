@@ -10,8 +10,8 @@
 # Resources
 ## Coding Docs
 * [Solidity 0.7.5](https://docs.soliditylang.org/en/v0.7.5/index.html)
-* [Yarn](https://tutorial.math.lamar.edu/pdf/Algebra_Cheat_Sheet.pdf)
-* [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/getting-started.html)
+* [Yarn](https://classic.yarnpkg.com/en/docs/)
+* [Waffle](https://ethereum-waffle.readthedocs.io/en/latest/)
 
 ## Cheat Sheets
 ### Math-Related
